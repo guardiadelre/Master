@@ -1,2 +1,2 @@
-# Maste
+# Master
 Initial dummy repo
